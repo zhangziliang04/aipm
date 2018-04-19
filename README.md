@@ -1,7 +1,6 @@
-# aipm
 ##人工智能产品经理最佳实践
 
-[前往->配套视频课程地址->网易云课堂](http://study.163.com/course/courseMain.htm?courseId=1005270022&utm_campaign=commission&utm_source=cp-1016839500&utm_medium=share)
+[前往->配套视频课程地址->网易云课堂](http://study.163.com/course/courseMain.htm?courseId=1005046025&utm_campaign=commission&utm_source=cp-1016839500&utm_medium=share)
 
 ### 第一部分	 基础理论篇 ###
 #### 第1章 人工智能基础 ####
