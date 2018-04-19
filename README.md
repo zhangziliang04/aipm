@@ -1,4 +1,8 @@
-##人工智能产品经理最佳实践
+## 人工智能产品经理最佳实践
+
+写作助手招募：QQ群
+
+![](https://i.imgur.com/PR3Wtfk.png)
 
 [前往->配套视频课程地址->网易云课堂](http://study.163.com/course/courseMain.htm?courseId=1005046025&utm_campaign=commission&utm_source=cp-1016839500&utm_medium=share)
 
